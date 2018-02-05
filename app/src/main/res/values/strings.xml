@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Logical Test</string>
+    <string name="name">Name</string>
+    <string name="question1">3\t\t\t9\t\t\t6\t\t\t18\t\t\t15\t\t\t45\t\t\t?</string>
+    <string name="question2">(1-14),\t\t(3-12),\t\t(5-10),\t\t(7-8),\t\t(?,?)</string>
+    <string name="question3">9\t\t\t4\t\t\t12\t\t\t7\t\t\t21\t\t\t?\t\t\t48\t\t\t?</string>
+    <string name="question4">2\t\t\t4\t\t\t16\t\t\t256\t\t\t?</string>
+    <string name="question5">4\t\t\t-12\t\t\t-7\t\t\t21\t\t\t26\t\t\t?</string>
+    <string name="question6">2\t\t\t5\t\t\t10\t\t\t13\t\t\t26\t\t\t?</string>
+    <string name="question7">2\t\t\t?\t\t\t4\t\t\t12\t\t\t48\t\t\t240</string>
+    <string name="question8">8\t\t\t2\t\t\t-6\t\t\t-12\t\t\t36\t\t\t?</string>
+</resources>
