@@ -297,40 +297,13 @@
                 android:textAllCaps="true"
                 android:textSize="@dimen/txtSize" />
 
-            <RadioGroup
-                android:layout_width="match_parent"
+             <EditText
+                android:id="@+id/answer_textfield"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="@dimen/padding_margin"
-                android:orientation="vertical">
-
-                <RadioButton
-                    android:id="@+id/answer21_radio_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="4"
-                    android:textAppearance="?android:textAppearanceMedium" />
-
-                <RadioButton
-                    android:id="@+id/answer22_radio_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="2"
-                    android:textAppearance="?android:textAppearanceMedium" />
-
-                <RadioButton
-                    android:id="@+id/answer23_radio_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="6"
-                    android:textAppearance="?android:textAppearanceMedium" />
-
-                <RadioButton
-                    android:id="@+id/answer24_radio_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="3"
-                    android:textAppearance="?android:textAppearanceMedium" />
-            </RadioGroup>
+                android:hint="@string/answer"
+                android:inputType="text" />
 
             <TextView
                 android:layout_width="match_parent"
